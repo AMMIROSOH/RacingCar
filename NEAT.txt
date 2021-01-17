@@ -1,0 +1,8 @@
+NEAT stands for Neuroevolution of augmenting topologies
+we start with 100 birds with 100 random neural networks.
+and from all of birds we choose 3 best neural networks.
+and use them for 100 new birds.
+this proccess countinues ... .
+
+previous neural networks we did gave the data and computer started building neural network.
+but here the network is made in some steps.
